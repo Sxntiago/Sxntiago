@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Santiago Lopera</h1>
 <h3 align="center">Improving every day in front end development</h3>
 
-- 🌱 I’m currently learning **Tailwind, NextJs, Mysql, Heroku, Firebase.**
+- 🌱 I’m currently learning **NextJs, Mysql, Heroku, Firebase.**
 
 - 💬 Ask me about **Javascript, Typescript and React**
 
